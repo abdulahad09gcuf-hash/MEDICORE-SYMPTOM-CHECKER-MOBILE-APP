@@ -5,7 +5,7 @@
 
 # 🩺 medicore  Symptom Checker Mobile Application
 
-### *(Flutter-Based Healthcare Decision Support System)*
+
 
 ---
 
